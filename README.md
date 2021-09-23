@@ -1,1 +1,1 @@
-# AttritudesOfCOVID-19Vaccine
+# AttitudesOfCOVID-19Vaccine
